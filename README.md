@@ -1,14 +1,15 @@
 ### 👋 Olá, eu sou o Pedro Cunha 
-
 <!--
 **Cunharodrigues/Cunharodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 Não estou trabalhando no momento, estou procurando um emprego como desenvolvedor backend Java. 
+- 🔭 Não estou trabalhando no momento, estou em busca de uma oportunidade como desenvolvedor backend Java junior.
 - 🌱 Atualmente estou aprendendo Java, Bootstrap, React, Nodes JS, Git, HTML5
 - 📫 Contate-me no email: pwcunha@gmail.com
--->
+
+
 <div align="center">
   <a href="https://github.com/cunharodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cunharodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
