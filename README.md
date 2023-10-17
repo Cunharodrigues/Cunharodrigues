@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo Java, Bootstrap, React, Nodes JS, Git, HTML5
 - 📫 Contate-me no email: pwcunha@gmail.com
 
--->*
+-->
 
 <div align="center">
   <a href="https://github.com/Cunharodrigues">
