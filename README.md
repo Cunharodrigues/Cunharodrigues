@@ -3,16 +3,7 @@
 
 - 🔭 Estou em busca de uma oportunidade como desenvolvedor backend Java junior.
 
-- <!--
-**Cunharodrigues/Cunharodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 Estou em busca de uma oportunidade como desenvolvedor backend Java junior.
-- 🌱 Atualmente estou aprendendo Java, Bootstrap, React, Nodes JS, Git, HTML5
-- 📫 Contate-me no email: pwcunha@gmail.com
-
--->
 
 <div align="center">
   <a href="https://github.com/Cunharodrigues">
