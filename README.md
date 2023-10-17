@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 📫 Contate-me no email: pwcunha@gmail.com
 
 -->*/
-- 🔭 Estou em busca de uma oportunidade como desenvolvedor backend Java junior.
 
 <div align="center">
   <a href="https://github.com/Cunharodrigues">
