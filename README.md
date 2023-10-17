@@ -4,9 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Estou em busca de uma oportunidade como desenvolvedor backend Java junior.
-- 🌱 Atualmente estou aprendendo Java, Bootstrap, React, Nodes JS, Git, HTML5
-- 📫 Contate-me no email: pwcunha@gmail.com
+
 -->
 
 - 🔭 Estou em busca de uma oportunidade como desenvolvedor backend Java junior.
